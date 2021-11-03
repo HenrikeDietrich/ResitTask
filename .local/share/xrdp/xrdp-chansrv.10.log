@@ -1,0 +1,5 @@
+[20211103-10:49:05] [CORE ] main: app started pid 1222(0x000004c6)
+[20211103-10:49:05] [INFO ] main: DISPLAY env var set to :10.0
+[20211103-10:49:05] [INFO ] main: using DISPLAY 10
+[20211103-10:49:05] [INFO ] channel_thread_loop: thread start
+[20211103-10:49:06] [INFO ] Socket 12: AF_UNIX connection received

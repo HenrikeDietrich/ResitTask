@@ -1,0 +1,9 @@
+[0;1;32m●[0m postgresql.service - PostgreSQL RDBMS
+   Loaded: loaded (/lib/systemd/system/postgresql.service; enabled; vendor preset: enabled)
+   Active: [0;1;32mactive (exited)[0m since Mon 2021-11-01 17:17:07 CET; 1h 4min ago
+ Main PID: 638 (code=exited, status=0/SUCCESS)
+    Tasks: 0 (limit: 4915)
+   CGroup: /system.slice/postgresql.service
+
+Nov 01 17:17:07 raspberrypi systemd[1]: Starting PostgreSQL RDBMS...
+Nov 01 17:17:07 raspberrypi systemd[1]: Started PostgreSQL RDBMS.
