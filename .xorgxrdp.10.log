@@ -274,3 +274,6 @@ X Protocol Version 11, Revision 0
 [  3338.084] rdpkeybChangeKeyboardControl: autoRepeat off
 [  3338.084] rdpkeybChangeKeyboardControl:
 [  3338.084] rdpkeybChangeKeyboardControl: autoRepeat off
+[  5298.987] rdpSaveScreen:
+[  5899.007] rdpSaveScreen:
+[  6077.933] rdpSaveScreen:

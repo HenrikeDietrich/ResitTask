@@ -3,3 +3,15 @@
 [20211103-10:49:05] [INFO ] main: using DISPLAY 10
 [20211103-10:49:05] [INFO ] channel_thread_loop: thread start
 [20211103-10:49:06] [INFO ] Socket 12: AF_UNIX connection received
+[20211103-11:59:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-11:59:57] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:00:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:26:43] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:27:57] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:28:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:28:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:31:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:32:03] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:32:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:32:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20211103-12:32:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
