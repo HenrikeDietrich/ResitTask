@@ -1031,6 +1031,28 @@ vim
 Utility;TextEditor
 Text,editor
 
++chrome-apps
+Chromium Apps
+
+chromium-browser
+chrome-apps.directory
+0
+0
+-chrome-fljalecfjciodhpcledpamjachpmelml-Default.desktop
+Caret
+
+chrome-fljalecfjciodhpcledpamjachpmelml-Default
+
+7
+
+/usr/bin/chromium-browser --profile-directory=Default --app-id=fljalecfjciodhpcledpamjachpmelml
+0
+0
+
+
+
+
+
 +Universal Access
 Universal Access
 Universal Access Settings
