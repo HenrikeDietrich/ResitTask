@@ -364,3 +364,173 @@ dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/
 ** Message: 10:49:06.823: main.vala:102: DE is LXDE
 ** Message: 10:49:07.003: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
 ** Message: 10:49:07.003: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Thu 04 Nov 2021 10:17:26 AM CET
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:pi being added to access control list
+gpgconf: WARNING: standard input reopened
+gpgconf: WARNING: standard input reopened
+dbus-update-activation-environment: setting USER=pi
+dbus-update-activation-environment: setting LANGUAGE=en_US.UTF-8
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pi
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=pi
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 10:17:27.528: main.vala:101: Session is LXDE-pi
+** Message: 10:17:27.528: main.vala:102: DE is LXDE
+** Message: 10:17:27.686: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 10:17:27.686: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Thu 04 Nov 2021 12:11:50 PM CET
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:pi being added to access control list
+gpgconf: WARNING: standard input reopened
+gpgconf: WARNING: standard input reopened
+dbus-update-activation-environment: setting USER=pi
+dbus-update-activation-environment: setting LANGUAGE=en_US.UTF-8
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pi
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=pi
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 12:11:51.381: main.vala:101: Session is LXDE-pi
+** Message: 12:11:51.382: main.vala:102: DE is LXDE
+** Message: 12:11:51.535: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 12:11:51.535: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Fri 05 Nov 2021 09:11:15 AM CET
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:pi being added to access control list
+gpgconf: WARNING: standard input reopened
+gpgconf: WARNING: standard input reopened
+dbus-update-activation-environment: setting USER=pi
+dbus-update-activation-environment: setting LANGUAGE=en_US.UTF-8
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pi
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=pi
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 09:11:16.510: main.vala:101: Session is LXDE-pi
+** Message: 09:11:16.511: main.vala:102: DE is LXDE
+** Message: 09:11:16.687: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 09:11:16.687: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Fri 05 Nov 2021 12:16:37 PM CET
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:pi being added to access control list
+gpgconf: WARNING: standard input reopened
+gpgconf: WARNING: standard input reopened
+dbus-update-activation-environment: setting USER=pi
+dbus-update-activation-environment: setting LANGUAGE=en_US.UTF-8
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pi
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=pi
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 12:16:38.383: main.vala:101: Session is LXDE-pi
+** Message: 12:16:38.384: main.vala:102: DE is LXDE
+** Message: 12:16:38.581: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 12:16:38.581: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for pi at Sun 16 Jan 2022 04:40:45 PM CET
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:pi being added to access control list
+gpgconf: WARNING: standard input reopened
+gpgconf: WARNING: standard input reopened
+dbus-update-activation-environment: setting USER=pi
+dbus-update-activation-environment: setting LANGUAGE=en_US.UTF-8
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/pi
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting LOGNAME=pi
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/var/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+** Message: 16:40:45.814: main.vala:101: Session is LXDE-pi
+** Message: 16:40:45.814: main.vala:102: DE is LXDE
+** Message: 16:40:45.972: main.vala:133: log directory: /home/pi/.cache/lxsession/LXDE-pi
+** Message: 16:40:45.972: main.vala:134: log path: /home/pi/.cache/lxsession/LXDE-pi/run.log

@@ -1,24 +1,32 @@
-[20211103-10:49:05] [CORE ] main: app started pid 1222(0x000004c6)
-[20211103-10:49:05] [INFO ] main: DISPLAY env var set to :10.0
-[20211103-10:49:05] [INFO ] main: using DISPLAY 10
-[20211103-10:49:05] [INFO ] channel_thread_loop: thread start
-[20211103-10:49:06] [INFO ] Socket 12: AF_UNIX connection received
-[20211103-11:59:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-11:59:57] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:00:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:26:43] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:27:57] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:28:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:28:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:31:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:32:03] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:32:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:32:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:32:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:33:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:33:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:33:59] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:34:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:35:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:36:04] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20211103-12:36:25] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20220116-16:40:45] [CORE ] main: app started pid 1237(0x000004d5)
+[20220116-16:40:45] [INFO ] main: DISPLAY env var set to :10.0
+[20220116-16:40:45] [INFO ] main: using DISPLAY 10
+[20220116-16:40:45] [INFO ] channel_thread_loop: thread start
+[20220116-16:40:45] [INFO ] Socket 12: AF_UNIX connection received
+[20220116-17:29:58] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-17:30:29] [ERROR] clipboard_event_selection_request: unknown target COMPOUND_TEXT
+[20220116-17:40:00] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-17:49:35] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-17:52:14] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-17:56:02] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:08:42] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:09:49] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:12:54] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:15:24] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:15:36] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:15:56] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:17:31] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:17:48] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:18:08] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:19:43] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:19:56] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:22:01] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:22:39] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:23:53] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:24:39] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:25:15] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:29:35] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:29:52] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:30:06] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:34:28] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201
+[20220116-18:37:46] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000201

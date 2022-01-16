@@ -3,7 +3,17 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/pi/RSL/top50recommendations.csv" added="2021-11-02T11:37:49Z" modified="2021-11-02T11:37:49Z" visited="2021-11-02T11:37:50Z">
+  <bookmark href="file:///home/pi/VE/bin/ResitTask" added="2022-01-16T15:49:59Z" modified="2022-01-16T15:49:59Z" visited="2022-01-16T15:50:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thonny" exec="&apos;Thonny %u&apos;" modified="2022-01-16T15:49:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pi/VE/bin/recommendations_based_on_spring_breakers.csv" added="2022-01-16T16:00:27Z" modified="2022-01-16T16:00:27Z" visited="2022-01-16T16:00:38Z">
     <desc>Charset: UTF-8</desc>
     <info>
       <metadata owner="http://freedesktop.org">
@@ -12,12 +22,12 @@
           <bookmark:group>Mousepad</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-11-02T11:37:49Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-01-16T16:00:27Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/pi/RSL/moviesFromMetacritic.csv" added="2021-11-02T13:13:14Z" modified="2021-11-02T13:13:14Z" visited="2021-11-02T13:13:14Z">
+  <bookmark href="file:///home/pi/VE/bin/recommendations_based_on_spring_breakers_ResitTask.csv" added="2022-01-16T16:23:20Z" modified="2022-01-16T16:23:20Z" visited="2022-01-16T16:23:30Z">
     <desc>Charset: UTF-8</desc>
     <info>
       <metadata owner="http://freedesktop.org">
@@ -26,88 +36,7 @@
           <bookmark:group>Mousepad</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-11-02T13:13:14Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/RSL/top50recommendations5.csv" added="2021-11-02T13:36:47Z" modified="2021-11-02T13:45:59Z" visited="2021-11-02T13:36:47Z">
-    <desc>Charset: UTF-8</desc>
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>Mousepad</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-11-02T13:45:59Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/RSL/top50recommendations4.csv" added="2021-11-02T13:36:54Z" modified="2021-11-02T14:26:50Z" visited="2021-11-02T13:36:54Z">
-    <desc>Charset: UTF-8</desc>
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>Mousepad</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-11-02T14:26:50Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/RSL/text_file.sql" added="2021-11-02T13:51:15Z" modified="2021-11-02T13:51:15Z" visited="2021-11-02T13:51:15Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-sql"/>
-        <bookmark:groups>
-          <bookmark:group>geany</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-11-02T13:51:15Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/RSL/file_Genre.sql" added="2021-11-02T13:56:33Z" modified="2021-11-02T13:56:33Z" visited="2021-11-02T13:56:33Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-sql"/>
-        <bookmark:groups>
-          <bookmark:group>geany</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-11-02T13:56:33Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/RSL/file_Starring.sql" added="2021-11-02T14:25:31Z" modified="2021-11-02T14:25:31Z" visited="2021-11-02T14:25:31Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/x-sql"/>
-        <bookmark:groups>
-          <bookmark:group>geany</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-11-02T14:25:31Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/pi/RSL/top50recommendations8.csv" added="2021-11-02T14:31:43Z" modified="2021-11-02T14:31:43Z" visited="2021-11-02T14:31:44Z">
-    <desc>Charset: UTF-8</desc>
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>Mousepad</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-11-02T14:31:43Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-01-16T16:23:20Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
